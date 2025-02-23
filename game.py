@@ -1,4 +1,6 @@
 import pygame
+from card import Card
+
 
 pygame.init()
 
